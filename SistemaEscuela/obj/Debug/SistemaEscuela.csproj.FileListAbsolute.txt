@@ -1,0 +1,17 @@
+C:\Users\JarvisXxX\Source\Repos\SistemaEscuela\SistemaEscuela\bin\Debug\SistemaEscuela.exe.config
+C:\Users\JarvisXxX\Source\Repos\SistemaEscuela\SistemaEscuela\bin\Debug\SistemaEscuela.exe
+C:\Users\JarvisXxX\Source\Repos\SistemaEscuela\SistemaEscuela\bin\Debug\SistemaEscuela.pdb
+C:\Users\JarvisXxX\Source\Repos\SistemaEscuela\SistemaEscuela\bin\Debug\EntityFramework.dll
+C:\Users\JarvisXxX\Source\Repos\SistemaEscuela\SistemaEscuela\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JarvisXxX\Source\Repos\SistemaEscuela\SistemaEscuela\bin\Debug\EntityFramework.xml
+C:\Users\JarvisXxX\Source\Repos\SistemaEscuela\SistemaEscuela\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JarvisXxX\Source\Repos\SistemaEscuela\SistemaEscuela\obj\Debug\SistemaEscuela.csprojAssemblyReference.cache
+C:\Users\JarvisXxX\Source\Repos\SistemaEscuela\SistemaEscuela\obj\Debug\SistemaEscuela.MainForm.resources
+C:\Users\JarvisXxX\Source\Repos\SistemaEscuela\SistemaEscuela\obj\Debug\SistemaEscuela.Properties.Resources.resources
+C:\Users\JarvisXxX\Source\Repos\SistemaEscuela\SistemaEscuela\obj\Debug\SistemaEscuela.csproj.GenerateResource.cache
+C:\Users\JarvisXxX\Source\Repos\SistemaEscuela\SistemaEscuela\obj\Debug\SistemaEscuela.csproj.CoreCompileInputs.cache
+C:\Users\JarvisXxX\Source\Repos\SistemaEscuela\SistemaEscuela\obj\Debug\SistemaEscuela.csproj.CopyComplete
+C:\Users\JarvisXxX\Source\Repos\SistemaEscuela\SistemaEscuela\obj\Debug\SistemaEscuela.exe
+C:\Users\JarvisXxX\Source\Repos\SistemaEscuela\SistemaEscuela\obj\Debug\SistemaEscuela.pdb
+C:\Users\JarvisXxX\Source\Repos\SistemaEscuela\SistemaEscuela\obj\Debug\SistemaEscuela.UI.Registros.rCurso.resources
+C:\Users\JarvisXxX\Source\Repos\SistemaEscuela\SistemaEscuela\obj\Debug\SistemaEscuela.UI.Registros.rEstudiante.resources
